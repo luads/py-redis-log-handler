@@ -1,5 +1,5 @@
 Redis Handler for Python's logging module
--------
+======
 
 A simple Redis handler for the python logging module, with an example of usage.
 
